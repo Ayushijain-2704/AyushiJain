@@ -111,6 +111,10 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   text-decoration: none;
 }
+.white-button a:hover {
+    background-color: #FF0000;
+    color: #fff;
+}
 
 #main {
   margin-left: 300px;
